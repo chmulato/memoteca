@@ -19,14 +19,14 @@
       "conteudo": "Passo informações para o componente Filho",
       "autoria": "Componente Pai",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 5,
       "conteudo": "Minha propriedade é decorada com @Input()",
       "autoria": "",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 6,
@@ -39,7 +39,7 @@
       "conteudo": "ddsss",
       "autoria": "dee",
       "modelo": "modelo1",
-      "favorito": false,
+      "favorito": true,
       "id": 7
     },
     {
